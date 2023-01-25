@@ -70,7 +70,6 @@
  .bg{
    position: relative;
    width: 100%;
-
    background-attachment: fixed;
    background-position: center;
    background-size: cover;
@@ -83,11 +82,12 @@
     padding: 0.5rem 2.5rem;
     top: 50%;
     left: 50%;
-    transform:translateX(-50%) translateY(-50%) ; 
-    color: solid black; 
+    transform:translateX(-50%) translateY(-50%); 
+    color: black; 
     font-size: 3.5rem;
     font-weight: 600;
  }
+
  .bg1{
    background-image:url(BIKING.jpg);
  }
